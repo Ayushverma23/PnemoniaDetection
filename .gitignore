@@ -34,17 +34,7 @@ env/
 venv.bak/
 
 # Models and checkpoints
-*.pt
-*.pth
-*.h5
-*.hdf5
-*.keras
-*.onnx
-*.pb
-*.tflite
-*.mlmodel
-models/
-model/
+# (Removed to allow models to be pushed)
 
 # Data and outputs
 data/
